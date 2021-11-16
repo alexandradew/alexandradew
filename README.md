@@ -1,4 +1,4 @@
-### Olá, meu nome é Alex Andrade. Sou um desenvolvedor front-end em busca do full-stack!
+### Hi, my name is Alex Andrade. I'm a front-end developer aiming to be a full stack soon!
 
 <div align="left">
   <a href="https://github.com/alexandradew">
