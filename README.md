@@ -1,4 +1,4 @@
-### Hi, my name is Alex Andrade. I'm a Jr. Full Stack Developer.
+### Hi, my name is Alex Andrade. I'm a Full Stack Developer.
 
 <div align="left">
   <a href="https://github.com/alexandradew">
