@@ -1,10 +1,9 @@
-### Hi, my name is Alex Andrade. I'm a Full Stack Developer.
+Full stack developer with 7 years of experience building and maintaining production systems, specialized in PHP/Laravel, Node.js,
+React.js and Vue.js, with strong PostgreSQL/MySQL and REST API skills. Hands-on builder of AI automations in production: LLM API
+integrations (Anthropic Claude, OpenAI), customer-facing AI chat with safety guardrails, AI-driven lead qualification, and OCR +
+LLM document pipelines. Daily user of AI coding agents with spec-driven development, plus practical Docker, Nginx, and Linux
+experience in production environments.
 
-<div align="left">
-  <a href="https://github.com/alexandradew">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandradew&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandradew&layout=compact&langs_count=6&theme=dark"/>
-</div>
   
 <div style="display: inline_block"></br>
 
