@@ -4,6 +4,7 @@ integrations (Anthropic Claude, OpenAI), customer-facing AI chat with safety gua
 LLM document pipelines. Daily user of AI coding agents with spec-driven development, plus practical Docker, Nginx, and Linux
 experience in production environments.
 
+https://alexandradew.github.io
   
 <div style="display: inline_block"></br>
 
